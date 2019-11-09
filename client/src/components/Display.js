@@ -5,9 +5,6 @@ import User from './User';
 import { BULLET } from 'jest-config/build/utils';
 
 
-const 
-}
-
 function Display(props) { 
     const [darkMode, setDarkMode] = useDarkMode();
 

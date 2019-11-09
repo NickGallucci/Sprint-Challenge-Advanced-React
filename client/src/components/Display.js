@@ -2,7 +2,6 @@ import React from 'react';
 import useDarkMode from '../hooks/useDarkMode'; 
 import '../App.css'; 
 import User from './User'; 
-import { BULLET } from 'jest-config/build/utils';
 
 
 function Display(props) { 

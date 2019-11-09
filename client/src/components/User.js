@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 
 const UserCard = styled.div ` 
-    border: 10px solid grey; 
+    border: 10px solid blue; 
 `
 
 
